@@ -19,7 +19,7 @@ Recently, pre-training based approaches are proposed to leverage self-supervised
 
 For `Yelp`, `Amazon-Beauty/Sports/Toys` and `MovieLens-1M`, you can download from [RecSysDatasets](https://github.com/RUCAIBox/RecSysDatasets). Then, you can refer to `utils_data.ipynb` to process the dataset. The processed dataset should be stored in the folder `./dataset/`.
 
-Due to policy restrictions, industrial dataset `Meituan` will not be released.
+Due to policy restrictions, the industrial dataset `Meituan` will not be released.
 
 
 ## Training:
